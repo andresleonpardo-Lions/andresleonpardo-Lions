@@ -1,7 +1,7 @@
 # -andresleonpardo-Lions
 <div align="center">
 
-<img src="assets/leon-manga.png" width="230" alt="León programador con estética de manga japonés" />
+<img src="perfil-github/assets/leon-manga.png" width="230" alt="León programador con estética de manga japonés" />
 
 # Hola, soy Andrés León 🦁
 
