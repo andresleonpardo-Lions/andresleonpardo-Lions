@@ -1,9 +1,9 @@
-![Andrés León — Desarrollador de software e integrador tecnológico.](assets/header.svg)
+![Andrés León — Desarrollador de software e integrador tecnológico.](perfil-github/assets/header.svg)
 
 <table>
 <tr>
-<td width="28%" align="center"><img src="assets/leon-manga.png" width="250" alt="Mi león programador, con estética manga" /></td>
-<td width="72%"><img src="assets/console.svg" width="760" alt="Andrés León. Software empresarial, integraciones, SQL y PostgreSQL, Docker, Linux y Windows. Enfoque actual: arquitectura, backend e inteligencia artificial aplicada." /></td>
+<td width="28%" align="center"><img src="perfil-github/assets/leon-manga.png" width="250" alt="Mi león programador, con estética manga" /></td>
+<td width="72%"><img src="perfil-github/assets/console.svg" width="760" alt="Andrés León. Software empresarial, integraciones, SQL y PostgreSQL, Docker, Linux y Windows. Enfoque actual: arquitectura, backend e inteligencia artificial aplicada." /></td>
 </tr>
 </table>
 
@@ -21,7 +21,7 @@ Construcción de aplicaciones web, herramientas internas y soluciones para proce
 **Integración de sistemas y automatización**  
 Integración de ERP y POS con aplicaciones y servicios externos; consumo y construcción de APIs, intercambio de datos mediante JSON y servicios web, y automatización de tareas operativas.
 
-![Experiencia en integración de aplicaciones mediante APIs y web services, incluyendo Rappi y Siesa Enterprise.](assets/integrations.svg)
+![Experiencia en integración de aplicaciones mediante APIs y web services, incluyendo Rappi y Siesa Enterprise.](perfil-github/assets/integrations.svg)
 
 **Bases de datos y análisis de información**  
 Trabajo con SQL y PostgreSQL, estructuración y consulta de datos, procesamiento de archivos y apoyo a procesos de análisis y reportería.
